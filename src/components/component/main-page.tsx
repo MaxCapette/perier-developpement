@@ -95,7 +95,7 @@ export function MainPage() {
           </Link>
         </section>
         <section id="services" className="py-16 px-6 md:px-10">
-          <h2 className="text-3xl font-bold mb-8">Nos services de domiciliation</h2>
+          <h2 className="text-3xl font-bold mb-8 flex justify-center">Nos services de domiciliation</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-card p-6 rounded-lg shadow-md">
               <BuildingIcon className="w-8 h-8 mb-4 text-primary" />
@@ -132,7 +132,7 @@ export function MainPage() {
           </div>
         </section>
         <section id="pricing" className="bg-muted py-16 px-6 md:px-10">
-          <h2 className="text-3xl font-bold mb-8">Nos forfaits</h2>
+          <h2 className="text-3xl font-bold mb-8 flex justify-center">Nos forfaits</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-card p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-bold mb-4">Forfait Essentiel</h3>
@@ -261,7 +261,7 @@ export function MainPage() {
           </div>
         </section>
         <section id="testimonials" className="bg-muted py-16 px-6 md:px-10">
-          <h2 className="text-3xl font-bold mb-8">Témoignages</h2>
+          <h2 className="text-3xl font-bold mb-8 flex justify-center">Témoignages</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-card p-6 rounded-lg shadow-md">
               <blockquote className="mb-4">
