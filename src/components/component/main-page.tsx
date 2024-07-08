@@ -336,7 +336,7 @@ export function MainPage() {
           <p className="   "> 06200 NICE </p>
           <p className="  mt-4 ">contact@perier-developpement.fr</p>
 
-          <p className="  mt-4 ">TEL: 05 35 54 19 41</p>
+          <p className="  mt-4 ">TEL: 04 22 13 02 97</p>
         </div>
       </footer>
     </div>
